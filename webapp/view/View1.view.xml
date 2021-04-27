@@ -11,6 +11,7 @@
 					<content>
                     <Text text="Hello"></Text>
                     <Text text="Hello1"></Text>
+                    <Text text="Hello2"></Text>
                     </content>
 				</Page>
 			</pages>
